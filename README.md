@@ -1,0 +1,1 @@
+This is a react-native exercise from a youtube course by "The Net Ninja"
